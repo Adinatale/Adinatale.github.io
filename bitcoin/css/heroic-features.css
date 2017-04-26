@@ -1,0 +1,106 @@
+/*
+ * Start Bootstrap - Heroic Features (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+/*
+
+.panel-yellow{
+	background-color: yellow;
+}
+.panel-red{
+	background-color: red;
+}
+.panel-green{
+	background-color: green;
+}
+*/
+.panel-yellow {
+    border-color: #f0ad4e;
+}
+
+.panel-yellow > .panel-body {
+    border-color: #f0ad4e;
+    color: #fff;
+    background-color: #f0ad4e;
+}
+
+.panel-yellow > a {
+    color: #f0ad4e;
+}
+
+.panel-yellow > a:hover {
+    color: #df8a13;
+}
+
+.panel-blue {
+    border-color: #337ab7;
+}
+
+.panel-blue > .panel-body {
+    border-color: #337ab7;
+    color: #fff;
+    background-color: #337ab7;
+}
+
+.panel-blue > a {
+    color: #337ab7;
+}
+
+.panel-blue > a:hover {
+    color: #337ab7;
+}
+
+.panel-red {
+    border-color: #d9534f;
+}
+
+.panel-red > .panel-body {
+    border-color: #d9534f;
+    color: #fff;
+    background-color: #d9534f;
+}
+
+.panel-red > a {
+    color: #d9534f;
+}
+
+.panel-red > a:hover {
+    color: #b52b27;
+}
+
+.panel-green {
+    border-color: #5cb85c;
+}
+
+.panel-green > .panel-body {
+    border-color: #5cb85c;
+    color: #fff;
+    background-color: #5cb85c;
+}
+
+.panel-green > a {
+    color: #5cb85c;
+}
+
+.panel-green > a:hover {
+    color: #3d8b3d;
+}
+
+
+
+footer {
+    margin: 50px 0;
+}
